@@ -1,10 +1,12 @@
 numpy
 streamlit
-seaborm
+seaborn
 matplotlib
 ploty
 pandas
 joblib
 scikit-learn
-time
+python-time
 pickle
+pillow
+os-sys
